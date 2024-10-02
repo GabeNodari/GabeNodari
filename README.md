@@ -2,9 +2,9 @@
 
 - 👋🏻 Hello! I'm Gabriel. <br>
 - 📚 I'm an ESL teacher and I'm currently studying Front End development. <br>
-- 🖌️ I use Figma do create my UI designs. <br>
+- 🖌️ I use Figma to create my UI designs. <br>
 - 💻 My projects include: HTML, CSS, Bootstrap, JS and React. <br>
-- 📧 If you want to contact me, please, check my LinkedIn profile:
+- 📧 If you want to contact me, check my LinkedIn profile:
 
 <a href="https://www.linkedin.com/in/gabriel-nodari-pereira" target="_blank)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40"/>
 
