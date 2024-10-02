@@ -6,7 +6,7 @@
 - 💻 My projects include: HTML, CSS, Bootstrap, JS and React. <br>
 - 📧 If you want to contact me, please, check my LinkedIn profile:
 
-<a href="(www.linkedin.com/in/gabriel-nodari-pereira" target="_blank)"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40"/>
+<a href="https://www.linkedin.com/in/gabriel-nodari-pereira" target="_blank)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeNodari&layout=compact)](https://github.com/GabeNodari/github-readme-stats) <br>
 <hr>
