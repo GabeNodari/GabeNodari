@@ -3,7 +3,7 @@
 - 👋🏻 Hello! I'm Gabriel. <br>
 - 📚 I'm an ESL teacher and I'm currently studying to be a dev. <br>
 - 💻 My projects here include: HTML, CSS and JS. <br>
-- ✍🏻 I'm currently learning C, Python and SQL. Soon I will post my new projects! <br>
+- ✍🏻 I'm currently learning C, Python, SQL and ML. Soon I will post new projects! <br>
 - 📧 If you want to contact me, check my LinkedIn profile:
 
 <a href="https://www.linkedin.com/in/gabriel-nodari-pereira" target="_blank)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40"/>
