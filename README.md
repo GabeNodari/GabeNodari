@@ -1,8 +1,8 @@
 # Welcome!
 
 - 👋🏻 Hello! I'm Gabriel. <br>
-- 📚 I'm an ESL teacher and I'm currently studying to be a dev. <br>
-- ✍🏻 I'm currently learning C, Python, SQL and ML. Here you can find some of my projects! <br>
+- 📚 I'm an ESL teacher and I'm currently studying to work with BI and Data Analytics in the future. <br>
+- ✍🏻 I'm currently learning C, Python, SQL and ML, as well as BI tools, such as Power BI. Here you will find some of my projects! <br>
 - 📧 If you want to contact me, check my LinkedIn profile:
 
 <a href="https://www.linkedin.com/in/gabriel-nodari-pereira" target="_blank)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40"/>
@@ -17,4 +17,8 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="40"/> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="40"/> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="40"/> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sql" height="40"/> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" height="40"/> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="40"/> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sql" height="40"/>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="bi" height="40"/> 
+
