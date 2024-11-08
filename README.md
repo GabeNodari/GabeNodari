@@ -1,8 +1,8 @@
 # Welcome!
 
 - 👋🏻 Hello! I'm Gabriel. <br>
-- 📚 I'm an ESL teacher and I'm currently studying to work with BI and Data Analytics in the future. <br>
-- ✍🏻 I'm currently learning C, Python, SQL and ML, as well as BI tools, such as Power BI. Here you will find some of my projects! <br>
+- 📚 I'm an ESL teacher and I'm currently studying to work with technology. <br>
+- ✍🏻 I'm currently learning C, Python, JavaScript and other programming languages. Here you will find some of my projects! <br>
 - 📧 If you want to contact me, check my LinkedIn profile:
 
 <a href="https://www.linkedin.com/in/gabriel-nodari-pereira" target="_blank)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40"/>
