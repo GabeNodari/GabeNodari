@@ -2,7 +2,7 @@
 
 - 👋🏻 Hello! I'm Gabriel. <br>
 - 📚 I'm an ESL teacher and I'm currently studying to work with technology. <br>
-- ✍🏻 I'm currently learning presently learning JavaScript, React.js, CSS/Bootstrap and other programming languages. Here you will find some of my projects! <br>
+- ✍🏻 I'm presently learning JavaScript, React.js, CSS/Bootstrap and other programming languages. Here you will find some of my projects! <br>
 - 🎨 I'm also deepening my knowledge of UI/UX design using Figma. <br>
 - 📧 If you want to contact me, check my LinkedIn profile:
 
