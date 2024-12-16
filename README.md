@@ -1,7 +1,7 @@
 # Welcome!
 
 - 👋🏻 Hello! I'm Gabriel. <br>
-- 📚 I'm an ESL teacher and I'm currently studying to be a Full Stack Dev. <br>
+- 📚 I'm an ESL teacher and I'm currently studying to work with technology. <br>
 - ✍🏻I'm learning JavaScript, React, Node.js and other programming languages. <br>
 - 📧 If you want to contact me, check my LinkedIn profile:
 
