@@ -2,7 +2,7 @@
 
 - 👋🏻 Hello! I'm Gabriel. <br>
 - 📚 I'm an ESL teacher and I'm currently studying to work with technology. <br>
-- ✍🏻 I'm learning JavaScript, Python and other programming languages. <br>
+- ✍🏻 I'm learning JavaScript, Python, C and other programming languages. <br>
 - 📧 If you want to contact me, check my LinkedIn profile:
 
 <a href="https://www.linkedin.com/in/gabriel-nodari-pereira" target="_blank)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40"/>
