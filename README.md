@@ -4,8 +4,8 @@
 📚 Sou Assistente de TI e acadêmico de Análise e Desenvolvimento de Sistemas (CST), na Universidade de Passo Fundo (UPF). <br>
 👨🏻‍💻 Possuo experiência nas seguintes tecnologias:
 
-- <b>Linguagens de programação: C, Python e Javascript.</b>
-- <b>BDs: Oracle (PL/SQL), MySQL e PostgreSQL.</b>
+- <b>Linguagens de programação: C, PHP e Javascript.</b>
+- <b>BDs: Oracle, MySQL e PostgreSQL.</b>
 - <b>SOs e Infra: Windows e distros Linux (Ubuntu, Mint e Debian); Protocolos de rede (TCP/IP, SSH, FTP, DNS, entre outros).</b>
 
 <div align="center">
@@ -23,8 +23,8 @@
 📚 I am an IT Assistant and a student of Systems Analysis and Development (CST) at the University of Passo Fundo (UPF). <br>
 👨🏻‍💻 I have experience with the following technologies:
 
-- <b>Programming languages: C, Python, and JavaScript.</b>
-- <b>Databases: Oracle (PL/SQL), MySQL, and PostgreSQL.</b>
+- <b>Programming languages: C, PHP, and JavaScript.</b>
+- <b>Databases: Oracle, MySQL, and PostgreSQL.</b>
 - <b>Operating Systems & Infrastructure: Windows and Linux distributions (Ubuntu, Mint, and Debian); Network protocols (TCP/IP, SSH, FTP, DNS, among others).</b>
 
 <hr>
