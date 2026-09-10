@@ -57,9 +57,3 @@ final gabe = Dev(
         <img src="https://skillicons.dev/icons?i=flutter,python,postgres,mysql,firebase,git,github,docker,bash,powershell"/>
     </a>
 </div>
-<br>
-<div align="center">
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GabeNodari&layout=donut&hide_title=true&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=GabeNodari&layout=donut&hide_title=true&langs_count=6&theme=dark)
-
-</div>
